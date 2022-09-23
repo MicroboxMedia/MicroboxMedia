@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 **Goals**
-- [] Learn more about the PyGame library for Python
-- [] Learn basic Java syntax 
-- [] Make a Java project
-- [] Learn basic C++ syntax
-- [] Make a C++ project
+- [ ] Learn more about the PyGame library for Python
+- [ ] Learn basic Java syntax 
+- [ ] Make a Java project
+- [ ] Learn basic C++ syntax
+- [ ] Make a C++ project
 - [x] Make this checkilt
