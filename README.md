@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - [ ] Make a Java project
 - [ ] Learn basic C++ syntax
 - [ ] Make a C++ project
-- [x] Make this checkilt
+- [x] Make this checklist
