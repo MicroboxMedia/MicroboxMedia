@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello and welcome to my GitHub page!
+## Feel free to look around
 - 🌱 I’m currently learning **Java** and **C++**
 
