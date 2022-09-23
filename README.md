@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello and welcome to my GitHub page!
-## Feel free to look around
+**Feel free to look around**
 - 🌱 I’m currently learning **Java** and **C++**
 
+
+**Goals**
+- [] Learn more about the PyGame library for Python
+- [] Learn basic Java syntax 
+- [] Make a Java project
+- [] Learn basic C++ syntax
+- [] Make a C++ project
+- [x] Make this checkilt
